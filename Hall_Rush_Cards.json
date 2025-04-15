@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Surprise inspection! Player in lead moves back 3 spaces.",
+    "action": "move_leader_back",
+    "value": 3
+  },
+  {
+    "text": "Hall monitor slip-up! Everyone moves forward 2 spaces.",
+    "action": "move_all_forward",
+    "value": 2
+  },
+  {
+    "text": "Pop quiz panic! Next player skips their turn.",
+    "action": "skip_next_player",
+    "value": 1
+  },
+  {
+    "text": "Energy drinks for everyone! All players move ahead 1 space.",
+    "action": "move_all_forward",
+    "value": 1
+  },
+  {
+    "text": "Fire alarm mix-up! Everyone returns to the start.",
+    "action": "reset_all_positions"
+  }
+]

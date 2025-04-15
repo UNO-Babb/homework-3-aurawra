@@ -1,0 +1,71 @@
+{
+  "3": {
+    "type": "vending_machine",
+    "effect": -1
+  },
+  "5": {
+    "type": "energy_drink",
+    "effect": 2
+  },
+  "8": {
+    "type": "elevator",
+    "destination": 14
+  },
+  "10": {
+    "type": "hall_monitor",
+    "skip_turns": 1
+  },
+  "12": {
+    "type": "question_tile"
+  },
+  "15": {
+    "type": "wet_floor",
+    "effect": -2
+  },
+  "17": {
+    "type": "energy_drink",
+    "effect": 2
+  },
+  "20": {
+    "type": "wet_floor",
+    "effect": -2
+  },
+  "21": {
+    "type": "shortcut",
+    "effect": 6
+  },
+  "23": {
+    "type": "question_tile"
+  },
+  "26": {
+    "type": "hall_monitor",
+    "skip_turns": 1
+  },
+  "29": {
+    "type": "elevator",
+    "destination": 31
+  },
+  "33": {
+    "type": "wet_floor",
+    "effect": -2
+  },
+  "36": {
+    "type": "fire_drill",
+    "destination": 1
+  },  
+  "37": {
+    "type": "energy_drink",
+    "effect": 2
+  },
+  "39": {
+    "type": "question_tile"
+  },
+  "41": {
+    "type": "hall_monitor",
+    "skip_turns": 1
+  },
+  "43": {
+    "type": "vending_machine",
+    "effect": -1
+  }
+}

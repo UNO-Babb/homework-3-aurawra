@@ -1,0 +1,63 @@
+🎲 Game started!
+a rolled a 3 and moved to tile 3. Used a vending machine and ended up on tile 2
+b rolled a 5 and moved to tile 5. Drank an energy drink and sprinted to tile 7
+c rolled a 4 and moved to tile 4
+d rolled a 2 and moved to tile 2
+a rolled a 3 and moved to tile 5. Drank an energy drink and sprinted to tile 7
+b rolled a 4 and moved to tile 11
+c rolled a 2 and moved to tile 6
+d rolled a 3 and moved to tile 5. Drank an energy drink and sprinted to tile 7
+a rolled a 4 and moved to tile 11
+b rolled a 1 and moved to tile 12. Landed on a question tile!
+🃏 Hall Rush card drawn: "Hall monitor slip-up! Everyone moves forward 2 spaces."
+a moved forward 2 spaces.
+b moved forward 2 spaces.
+c moved forward 2 spaces.
+d moved forward 2 spaces.
+b rolled a 4 and moved to tile 17. Drank an energy drink and sprinted to tile 19
+c rolled a 3 and moved to tile 11
+d rolled a 3 and moved to tile 12. Landed on a question tile!
+🃏 Hall Rush card drawn: "Hall monitor slip-up! Everyone moves forward 2 spaces."
+a moved forward 2 spaces.
+b moved forward 2 spaces.
+c moved forward 2 spaces.
+d moved forward 2 spaces.
+d rolled a 6 and moved to tile 17. Drank an energy drink and sprinted to tile 19
+a rolled a 2 and moved to tile 17. Drank an energy drink and sprinted to tile 19
+b rolled a 3 and moved to tile 24
+c rolled a 5 and moved to tile 18
+d rolled a 5 and moved to tile 24
+a rolled a 5 and moved to tile 24
+b rolled a 1 and moved to tile 25
+c rolled a 5 and moved to tile 23. Landed on a question tile!
+🃏 Hall Rush card drawn: "Hall monitor slip-up! Everyone moves forward 2 spaces."
+a moved forward 2 spaces.
+b moved forward 2 spaces.
+c moved forward 2 spaces.
+d moved forward 2 spaces.
+c rolled a 3 and moved to tile 23. Landed on a question tile!
+🃏 Hall Rush card drawn: "Surprise inspection! Player in lead moves back 3 spaces."
+b was in the lead and moved back 3 spaces.
+c rolled a 4 and moved to tile 24
+d rolled a 4 and moved to tile 30
+a rolled a 6 and moved to tile 32
+b rolled a 6 and moved to tile 30
+c rolled a 6 and moved to tile 30
+d rolled a 3 and moved to tile 33. Slipped on a wet floor and moved to tile 31
+a rolled a 1 and moved to tile 33. Slipped on a wet floor and moved to tile 31
+b rolled a 5 and moved to tile 35
+c rolled a 6 and moved to tile 36. Fire drill! Sent back to tile 1
+d rolled a 1 and moved to tile 32
+a rolled a 6 and moved to tile 37. Drank an energy drink and sprinted to tile 39
+b rolled a 1 and moved to tile 36. Fire drill! Sent back to tile 1
+c rolled a 3 and moved to tile 4
+d rolled a 5 and moved to tile 37. Drank an energy drink and sprinted to tile 39
+a rolled a 2 and moved to tile 41. Got caught by the hall monitor and must skip a turn
+b rolled a 2 and moved to tile 3. Used a vending machine and ended up on tile 2
+c rolled a 3 and moved to tile 7
+d rolled a 1 and moved to tile 40
+a had to skip a turn.
+b rolled a 5 and moved to tile 7
+c rolled a 4 and moved to tile 11
+d rolled a 6 and moved to tile 45
+🎉 d wins the game!

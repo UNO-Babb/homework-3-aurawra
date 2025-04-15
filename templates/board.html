@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dice and Detention</title>
+    <style>
+        .container { display: flex; gap: 2rem; }
+        .log { border-left: 2px solid gray; padding-left: 1rem; max-height: 90vh; overflow-y: scroll; background-color: #f4f4f4; }
+        .log h2 { margin-top: 0; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div>
+        <h1>Dice and Detention</h1>
+        <p><strong>{{ players[state['turn']] }}'s Turn</strong></p>
+        <form action="/roll"><button type="submit">Roll Dice</button></form>
+        <form action="/reset"><button type="submit">Reset Game</button></form>
+        <img src="{{ url_for('static', filename='game_board.jpg') }}" alt="Game Board" width="600">
+    </div>
+    <div class="log">
+        <h2>📜 Game Log</h2>
+        {% for line in log %}
+            <div>{{ line }}</div>
+        {% endfor %}
+    </div>
+</div>
+</body>
+</html>

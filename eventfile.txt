@@ -1,0 +1,46 @@
+1, 5  #Player 2, at Tile 5
+0:
+1:
+2:
+3: vending_machine
+4:
+5: Player 2, energy_drink
+6:
+7:
+8: elevator
+9:
+10: hall_monitor
+11:
+12: Player 3, question_tile
+13:
+14:
+15: wet_floor
+16:
+17:
+18:
+19:
+20:
+21: shortcut
+22:
+23: Player 1
+24:
+25:
+26:
+27:
+28:
+29: elevator
+30:
+31:
+32:
+33:
+34:
+35:
+36: fire_drill
+37: Player 4
+38:
+39:
+40:
+41:
+42:
+43: vending_machine
+44: End
